@@ -6,4 +6,4 @@ const factorial = (n) => {
   return res;
 };
 
-console.log(factorial(3));
+console.log(factorial(3)); // time complexity O(n)
